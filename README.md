@@ -1,1 +1,1 @@
-# dinosaurs.html
+# dinosaurs
